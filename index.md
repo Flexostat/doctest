@@ -4,6 +4,6 @@
 
 test
 
-[other page](other/page.md)
+[other page](other/page)
 
 123
